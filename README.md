@@ -5,7 +5,7 @@
 * HID (взята в исходном виде) - https://github.com/ilufang/HID
 * GT911 (модифицирована) - https://github.com/spanner-and-code/GT911
 
-Тестирование проводилось на arduino pro micro 3.3В 8MhZ
+**Тестирование проводилось на arduino pro micro 3.3В 8MhZ**
 
 Подключение:
 * TX  -> INT
