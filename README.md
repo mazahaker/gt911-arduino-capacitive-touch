@@ -19,4 +19,6 @@
 
 Эмуляция USB HID возможна не только на Arduino на базе МК 32U4 (подробнее о списке подерживаемых МК на странице https://github.com/ilufang/HID) 
 
+PS в данном случае можно подключать панели под любое разрешение, касания будут корректно отмасштабированы на экране устройства
+
 ![Иллюстрация к проекту](https://github.com/mazahaker/gt911-arduino-capacitive-touch/blob/master/Touch%20connection.jpg)
